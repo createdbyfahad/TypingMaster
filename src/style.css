@@ -1,0 +1,173 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #FFF;
+}
+
+.header{
+    margin-bottom: 20px;
+}
+
+.timeChoicePick{
+    margin-right: 30px;
+}
+
+.testArea{
+    min-height: 250px;
+}
+
+.sampleInnerBox{
+    word-wrap: break-word;
+    text-align: left;
+    align: center;
+    font-size: 23px;
+    height: 300px;
+    overflow: scroll;
+}
+
+.sampleTextInput input{
+    width: 100%;
+    border: 1px solid #000000;
+}
+.sample-center {
+    height: 200px;
+    width: 50%;
+    border: 1px solid #000000;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    padding-left: 30px;
+    margin: auto;
+
+}
+
+.inner {
+ margin-top:19px;
+ border-bottom: 2px dotted #b38b0d;
+}
+
+.display-center {
+    text-align: center;
+    height: 50px;
+}
+
+.inline-div {
+  padding-left: 4em;
+  text-align: right;
+  display: inline;
+
+}
+
+
+.input {
+    text-align: center;
+    width: 35%;
+    font-size: 12pt;
+    padding: 8px 40px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.sample-text {
+    text-align: left;
+    width: 80%;
+    height: 250px;
+    font-size: 14pt;
+    padding: 4px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.small-display {
+    text-align: left;
+    width: 10%;
+    font-size: 12pt;
+    padding: 5px 10px;
+    margin: 8px 35px;
+    box-sizing: content-box;
+}
+
+.trackMenu{
+    margin-bottom: 30px;
+}
+
+.h2badge{
+    font-size: 1rem
+}
+.black{
+    color: black;
+}
+
+/* Data Vis */
+
+
+.background{
+    background-color: #f6f6fb;
+    margin: auto;
+    height: 500px;
+    width: 75%;
+
+}
+
+.upperdiv{
+    height: 50%;
+
+}
+
+.overallupperdiv{
+
+    height: 50%;
+    border: 3px solid rgba(211,211,212,0.16);
+}
+
+.lowerdiv{
+
+    height: 50%;
+    margin-top: 0px;
+}
+
+.overalllowerdiv{
+
+    height: 50%;
+    margin-top: 0px;
+    border: 3px solid rgba(211,211,212,0.16);
+}
+
+.leftdiv{
+
+    float: left;
+
+    width: 50%;
+    height: 100%;
+    padding: 0px;
+    border: 3px solid rgba(211,211,212,0.16);
+}
+
+.rightdiv{
+
+    float: left;
+
+    width: 50%;
+    height: 100%;
+    padding: 0px;
+    border: 3px solid rgba(211,211,212,0.16);
+}
+
+.p{
+
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+
+.overallp{
+
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
