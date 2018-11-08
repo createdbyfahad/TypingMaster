@@ -2,6 +2,14 @@
 
 ###### Web Progressive Application purposed for testing user typing speed and training user typing habits. Built using React and MangoDB.
 
+## Screenshots
+<p>
+<img src="https://user-images.githubusercontent.com/37724969/48182054-b8739600-e2de-11e8-8e26-bde502b0884d.png" width="430" alt="typingmaster sc1" >
+<img src="https://user-images.githubusercontent.com/37724969/48182052-b8739600-e2de-11e8-85c9-c390689e1fc3.png" width="430" alt="typingmaster sc2">
+<img src="https://user-images.githubusercontent.com/37724969/48182053-b8739600-e2de-11e8-8d22-1e8bf9078801.png" width="430" alt="typingmaster sc3">
+<img src="https://user-images.githubusercontent.com/37724969/48182055-b8739600-e2de-11e8-929a-17f2cbb94517.png" width="430" alt="typingmaster sc4">
+</p>
+
 ## Authors:
 
 Fahad Alarefi - Front end and backend development 
