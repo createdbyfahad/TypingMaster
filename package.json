@@ -44,6 +44,6 @@
     "dev": "concurrently --kill-others-on-fail  \"npm start\" \"npm run start_server\""
   },
   "devDependencies": {
-    "bootstrap": "^4.1.1"
+    "bootstrap": "^4.1.2"
   }
 }
