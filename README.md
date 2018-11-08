@@ -1,6 +1,6 @@
 # Typing Master
 
-###### Web Progressive Application purposed for testing user typing speed and training user typing habits. Built using React and MangoDB.
+###### Web Progressive Application purposed for testing user typing speed and training user typing habits. Built using React, Node.js, and MangoDB.
 
 ## Screenshots
 <p>
