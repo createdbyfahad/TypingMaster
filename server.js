@@ -2,7 +2,7 @@ var express = require("express");
 var morgan = require("morgan");
 var compression = require('compression');
 var helmet = require('helmet');
-
+require('dotenv').config();
 var app = express();
 app.use(helmet());
 app.use(compression());
