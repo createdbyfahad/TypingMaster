@@ -9,7 +9,7 @@ var mongoose = require('mongoose');
 var Record = require('../models/Record.js');
 var passport = require('passport');
 var jwt = require('jsonwebtoken');
-var User = require("../models/user");
+var User = require("../models/User.js");
 require('../config/passport')(passport);
 
 require('../helpers.js');

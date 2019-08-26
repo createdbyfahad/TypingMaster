@@ -1,29 +1,22 @@
 {
   "name": "TypingMaster",
-  "version": "1.0",
+  "version": "1.0.0",
   "private": true,
-  "proxy": {
-    "/auth/google": {
-      "target": "http://localhost:5000"
-    },
-    "/api/*": {
-      "target": "http://localhost:5000"
-    }
-  },
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "ajv": "^6.5.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bcrypt-nodejs": "0.0.3",
-    "bluebird": "^3.5.1",
-    "body-parser": "^1.18.3",
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
     "concurrently": "^3.5.1",
-    "dotenv": "^6.1.0",
-    "express": "^4.16.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.17.1",
     "jquery": "^3.3.1",
-    "jsonwebtoken": "^8.2.1",
-    "moment": "^2.22.2",
-    "mongoose": "^5.1.1",
-    "morgan": "^1.9.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.11",
+    "morgan": "^1.9.1",
     "nodemon": "^1.17.5",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
@@ -45,5 +38,17 @@
   },
   "devDependencies": {
     "bootstrap": "^4.1.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
