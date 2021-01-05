@@ -5,7 +5,7 @@
   "proxy": "http://localhost:5000",
   "dependencies": {
     "ajv": "^6.5.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "^3.5.5",
     "body-parser": "^1.19.0",
