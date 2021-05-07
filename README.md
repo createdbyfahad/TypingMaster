@@ -2,8 +2,6 @@
 
 ###### Web Progressive Application purposed for testing user typing speed and training user typing habits. Built using React, Node.js, and MangoDB.
 
-Demo: https://bit.ly/typing-master-demo
-
 ## Screenshots
 <p>
 <img src="https://user-images.githubusercontent.com/37724969/48182054-b8739600-e2de-11e8-8e26-bde502b0884d.png" width="430" alt="typingmaster sc1" >
